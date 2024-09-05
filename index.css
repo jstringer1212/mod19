@@ -1,0 +1,30 @@
+header{
+    text-align: center;
+    size: 100px;
+    border: solid 2px black;
+    margin: 1px;
+}
+
+table {
+  width: 100%;
+  border: solid 2px black;
+  text-align: center;
+  
+}
+/* tbody {width: 100%;
+  border: solid 1px black;
+  text-align: center;} */
+
+
+.average { 
+  text-align: center;
+  size: 100px;
+  border: solid 1px black;
+  margin: 2px;
+}
+
+body {
+  border: solid 5px black;
+  text-align: center;
+  width: 50%;
+}
